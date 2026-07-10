@@ -12,7 +12,7 @@ Welcome to the ultimate repository for the **OFFStack** Local AI & Autonomous Ag
 
 ## 📺 Complete Playlist & Series
 Follow along with the full step-by-step video guides on YouTube:
-👉 **[Watch the OFFSTACK Series Playlist Here](YOUR_PLAYLIST_LINK)**
+👉 **[Watch the OFFSTACK Series Playlist Here](https://www.youtube.com/playlist?list=PLWaIOZkSrpmU)**
 
 ---
 
