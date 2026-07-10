@@ -12,7 +12,7 @@ Welcome to the official repository for the **OFFStack** local AI architecture se
 
 ## 📺 Watch the Tutorial
 This codebase accompanies our step-by-step video guide on YouTube. 
-👉 **[Watch the full video here](https://www.youtube.com/watch?v=Ner0uGCtxp8)**
+👉 **[Watch the full video here](https://youtu.be/KlLEjmNQ9I8)**
 
 ---
 
